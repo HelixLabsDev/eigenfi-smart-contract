@@ -4,14 +4,6 @@ A staking pool for liquid restaking token holders which rewards stakers with poi
 
 ---
 
-## Contract
-
-A contract for locking balances of a designated ERC-20 token for a pre-defined amount of time.
-
-1. **Deposit period:** Anyone can deposit the designated token, receiving an equivalent balance of non-transferrable lock claim token. Withdrawals are possible.
-2. **Lock period:** No more deposits and withdrawals are possible.
-3. **After the lock period:** Tokens can be withdrawn in redemption for lock claim tokens.
-
 ### Setup
 
 #### Configuration
