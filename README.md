@@ -1,6 +1,6 @@
 # EigenFi Pool - Smart Contract
 
-A staking pool for liquid restaking token holders which rewards stakers with points from multiple platforms
+A staking pool for liquid restaking token holders which rewards stakers with points from multiple platforms inspired by Zircuit Staking Program
 
 ---
 
